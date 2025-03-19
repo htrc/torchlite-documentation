@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 # About TORCHLITE
-##Tools for Open Research and Computation with HathiTrust: Leveraging Intelligent Text Extraction (TORCHLITE)
+## Tools for Open Research and Computation with HathiTrust: Leveraging Intelligent Text Extraction (TORCHLITE)
 
 The TORCHLITE project extends volume-level, page-level, and fine-grain access to our [Extracted Features (EF) dataset](https://analytics.hathitrust.org/deriveddatasets), which contains metadata and statistical information extracted from the full-text data representing 17.5 million digitized volumes in the HathiTrust Digital Library. As part of TORCHLITE, HTRC has developed a well-documented API and an interactive data visualization dashboard.
 
