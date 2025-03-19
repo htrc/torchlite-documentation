@@ -9,7 +9,9 @@ layout: "post"
 
 
 1. Click the sign-in button in the top right corner. 
-![Sign-in](/images/signin.png)
+<img src="images/signing.png" alt="signin button" width="600"/>
+
 2. Select your institution from the drop down menu.
-![Select institution](/images/institutions.png)
+<img src="images/institutions.png" alt="institutions dropdown" width="600"/>
+
 3. If you do not have an account, create an account at [https://analytics.hathitrust.org/signuppage](https://analytics.hathitrust.org/signuppage).
