@@ -6,7 +6,7 @@ layout: "post"
 ---
 
 # How to select a workset
-<img src="images/selectworkset.png" alt="select workset" width="600"/>
+<img src="images/selectaworkset.png" alt="select workset" width="600"/>
 
 1.	Click Select Workset from the side navigation menu.
 2.	Use the dropdown menu to view featured worksets, all worksets, or my worksets.
