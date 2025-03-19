@@ -8,7 +8,11 @@ layout: "post"
 # How to sign in
 
 1. Click the sign-in button in the top right corner.
-![Sign-in](../images/signin-screenshot.png)
+   
+![Sign-in](../images/signin.png)
+
 2. Select your institution from the drop down menu.
-![Select institution](../images/institution.png)
+   
+![Select institution](../images/institutions.png)
+
 3. If you do not have an account, create an account at [https://analytics.hathitrust.org/signuppage](https://analytics.hathitrust.org/signuppage).
