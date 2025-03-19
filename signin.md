@@ -9,7 +9,7 @@ layout: "post"
 
 
 1. Click the sign-in button in the top right corner. 
-<img src="images/signing.png" alt="signin button" width="600"/>
+<img src="images/signin.png" alt="signin button" width="600"/>
 
 2. Select your institution from the drop down menu.
 <img src="images/institutions.png" alt="institutions dropdown" width="600"/>
