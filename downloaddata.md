@@ -1,5 +1,5 @@
 ---
-title: "Download the data"
+title: "Download the Data"
 description: "How to download data"
 date: 2025-03-21
 author: Janet Swatscheno
