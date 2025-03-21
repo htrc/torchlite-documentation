@@ -1,6 +1,8 @@
 ---
 title: "Apply Data Filters"
 description: "How to apply data filters to a workset"
+date: 2025-03-21
+author: Janet Swatscheno
 layout: "post"
 ---
 
