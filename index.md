@@ -10,10 +10,10 @@ description: General about page for the TORCHLITE dashboard project
 ---
 # About TORCHLITE
 
-This page will describe in general what the TORCHLITE Dashboard is and its purpose. 
+This page will describe in general what the **TORCHLITE Dashboard** is and its purpose. 
 
 ## What does TORCHLITE mean?
-TORCHLITE is an acronym that stands for Tools for Open Research and Computation with HathiTrust: Leveraging Intelligent Text Extraction. 
+**TORCHLITE** is an acronym that stands for **Tools for Open Research and Computation with HathiTrust: Leveraging Intelligent Text Extraction**. 
 
 There are three important pieces of this project to note:
 * the TORCHLITE visualization dashboard (shown in the image below, and the primary feature of this documentation)
