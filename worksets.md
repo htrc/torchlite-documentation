@@ -1,5 +1,5 @@
 ---
-title: "How to create and select worksets"
+title: "How to select and create worksets"
 description: "How to select and create worksets"
 nav_order: 3
 author: Janet Swatscheno
