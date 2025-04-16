@@ -1,6 +1,6 @@
 ---
 title: "How to create and select worksets"
-description: "How to create and select worksets"
+description: "How to select and create worksets"
 nav_order: 3
 author: Janet Swatscheno
 owner: Janet Swatscheno
@@ -10,7 +10,7 @@ last revised: 2025-04-16
 layout: "post"
 ---
 
-# How to select a workset
+# How to select and create worksets
 This page will show you how to select a workset to analyze in the TORCHLITE Dashboard, and also provides a brief overview of how to create your own workset inside of the **HTRC Analytics** site so that you can access it inside of the dashboard.
 
 ## Selecting a workset from the dashboard side menu
