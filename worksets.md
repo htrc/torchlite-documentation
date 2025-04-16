@@ -27,7 +27,8 @@ This page will show you how to select a workset to analyze in the TORCHLITE Dash
    
 <img src="images/featured-worksets-selected.png" alt="Select Workset dropdown menu opened to category options of worksets" width="300"/>
 
-6. Select a workset from the table below that you would like to analyze. Once selected, the dashboard will reload with the data from your workset and show it in the widgets on the right side of the screen.
+5. Select a workset from the table below that you would like to analyze. Once selected, the dashboard will reload with the data from your workset and show it in the widgets on the right side of the screen.
+
 <img src="images/workset-selected.png" alt="Anthologized 19th-Century British Poets selected from worksets table" width="600"/>
 
 # How to select a workset you created
