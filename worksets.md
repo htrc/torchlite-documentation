@@ -24,7 +24,7 @@ This page will show you how to select a workset to analyze in the TORCHLITE Dash
 <img src="images/select-workset-expanded.png" alt="Worksets table in side menu" width="300"/>
 
 4. You can select the dropdown menu above the worksets table to view different categories of worksets.
-   
+
 <img src="images/featured-worksets-selected.png" alt="Select Workset dropdown menu opened to category options of worksets" width="300"/>
 
 5. Select a workset from the table below that you would like to analyze. Once selected, the dashboard will reload with the data from your workset and show it in the widgets on the right side of the screen.
