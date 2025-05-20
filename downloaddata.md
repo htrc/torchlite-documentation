@@ -11,7 +11,7 @@ This page will show you how to directly download the extracted features data for
 
 You can download the full data for your workset which includes the metadata and feature data for every item in your workset. Alternatively you can download just the filtered data, and filtered metadata only which will restrict what you download to the items you haven't filtered out.
 
-<img src="images/downloaddatacircle.png" alt="download the data section of the dashboard menu with a red circle highlighting the download option." width="300"/>
+<img src="images/downloaddataoval.png" alt="download the data section of the dashboard menu with a red circle highlighting the download option." width="300"/>
 
 1.	Select Download the Data from the side menu.
 2.	Select from full, filtered, or filtered metadata.
