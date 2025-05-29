@@ -24,4 +24,5 @@ You can filter data from your workset based on several criteria such as title, p
 <img src="images/publishers-filter.png" alt="filter selections added to the Publisher filter" width="300"/>
 4. Once you have finished choosing your filter values, select the “Apply filters” button at the bottom of the menu.
 <img src="images/apply-filters-button.png" alt="red arrow pointing to the apply filters button" width="300"/>
+
 5. Your widgets will update accordingly with the specified data. 
