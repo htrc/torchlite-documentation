@@ -1,9 +1,9 @@
-title: TORCHLITE Documentation
-description: Documentation for the TORCHLITE dashboard
+title: TORCHLITE documentation
+description: Documentation on how to use the TORCHLITE dashboard.
 theme: just-the-docs
 color_scheme: htrc
 
-url: htrc.github.io/torchlite-documentation/
+url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
