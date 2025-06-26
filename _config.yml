@@ -1,6 +1,7 @@
 title: TORCHLITE Documentation
 description: Documentation for the TORCHLITE dashboard
-theme: htrc
+theme: just-the-docs
+color_scheme: htrc
 
 url: htrc.github.io/torchlite-documentation/
 
