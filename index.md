@@ -5,7 +5,7 @@ nav_order: 1
 owner: Janet Swatscheno
 editor: Jenny Christie
 date created: 03-19-2024
-last revised: 04-14-2025
+last revised: 06-26-2025
 description: General about page for the TORCHLITE dashboard project
 ---
 # About TORCHLITE
@@ -16,9 +16,9 @@ This page will describe in general what the **TORCHLITE Dashboard** is and its p
 **TORCHLITE** is an acronym that stands for **Tools for Open Research and Computation with HathiTrust: Leveraging Intelligent Text Extraction**. 
 
 There are three important pieces of this project to note:
-* the TORCHLITE visualization dashboard (shown in the image below, and the primary feature of this documentation)
-* the Extracted Features (EF) dataset
-* the EF API
+* TORCHLITE visualization dashboard (shown in the image below, and the primary feature of this documentation)
+* Extracted Features (EF) dataset
+* EF API
 
 <img src="images/dashboard.png" alt="home page of TORCHLITE dashboard" width="600"/>
 
