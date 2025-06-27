@@ -1,6 +1,6 @@
 ---
 title: "How to sign in"
-nav_order: 2
+nav_order: 3
 description: "Steps for how to sign in"
 date created: 2025-03-21
 last revised: 2025-04-15
