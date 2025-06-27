@@ -1,7 +1,7 @@
 ---
 title: "What are extracted features?"
 description: "What are extracted features?"
-nav_order: 3
+nav_order: 2
 date created: 2025-03-21
 last revised: 2025-05-28
 author: Janet Swatscheno
